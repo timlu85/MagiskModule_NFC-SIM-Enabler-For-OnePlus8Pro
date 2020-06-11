@@ -14,7 +14,7 @@ Enable NFC-SIM Function For OnePlus 8 Pro
 ```diff
 + Daily Use
 ```
-## Already Test
+## Already Tested
 * CHT NFC-SIM Card
 * EasyCard
 * Stock Stable OOS 10.5.10  
