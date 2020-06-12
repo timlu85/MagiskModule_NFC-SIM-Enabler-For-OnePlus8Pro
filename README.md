@@ -21,4 +21,4 @@ Enable NFC-SIM Function For OnePlus 8 Pro
 * Convenience Store POS and Kiosk
 * Bus、MRT、Train
 ## Credits / Thanks 
-
+xda@steven71508 - Helping me to test the module
